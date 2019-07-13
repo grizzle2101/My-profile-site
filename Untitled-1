@@ -1,0 +1,43 @@
+Hi I'm Conor McGrath a Computer Whisperer & Software Developer from Dublin Ireland.
+From a young age I was always interested in understanding how computers worked, after many iterations of
+breaking & fixing, my knowledge & curiosity grew.
+Then when it came time for college, I knew what I wanted to do.
+
+I've been working in the industry now for 3 years, on a variety of dfifernt projects & technolgy stacks.
+Since graduating with a 2.1 from Information Systems, i've been contionously learning & upskilling
+in C#, Angular, Azure & DevOps. This has helped me take on a wide range or roles and help across
+the board from Development to Testing & delivery.
+
+This site primary exists to document my journey as a developer,
+show potential employers what I'm all about & host some interesting projects!
+
+Since Graduating with a 2.1 in Information Systems I landed my first 'real' job in an IT consulting
+firm based here in Dublin. I had the opportunity to travel & work on some really interesteding projects
+and get exposure to many different technolgy stacks. I've been continiously learning & upskilling
+in C#, Angular, Azure & DevOps. This has enabled me work across the board from Development, DevOps & QA.
+
+
+--------
+             <br>From a young age I was always interested in understanding how computers worked, after many iterations of
+              breaking & fixing, my knowledge & curiosity grew.
+              So when it came time for college, I knew what I wanted to do.
+
+          <p class="lead mb-5">
+              Since Graduating I landed my first 'real' job in an IT consulting firm based here in Dublin. 
+              I had the opportunity to travel, work on some really interesting projects and get exposure to many different languages & technologies.
+              I am continiously learning & upskilling in C#, Angular, Azure & DevOps with the intention of
+              becoming a subject matter expert.
+
+              
+              <br>This site primary exists to document my journey as a developer,
+              show potential employers what I'm all about & host some interesting projects!
+--------
+HighLights:
+
+-TeamCity CI/CD pipeline to deploy Infrastructure & 
+-SharePoint API for Site Administration, File Retrival & Permissions via AD.
+-Created a BDD Test Automation Framework with C#, SpecFlow, Coypu & Selenium.
+
+
+It was Christmas 1996 when Quake came out and my father brought home a gateway2000 & introduced
+me to computing, I haven't looked back since.
